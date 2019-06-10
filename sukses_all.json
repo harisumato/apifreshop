@@ -21,33 +21,6 @@
             "harga": "15000",
             "stok": "50",
             "foto": ""
-        },
-        {
-            "id": "3",
-            "id_supplier": "1",
-            "nama_produk": "Ikan Nila",
-            "jenis_produk": "Seafood",
-            "harga": "18000",
-            "stok": "100",
-            "foto": ""
-        },
-        {
-            "id": "6",
-            "id_supplier": "2",
-            "nama_produk": "Sawi Putih",
-            "jenis_produk": "Sayuran",
-            "harga": "5000",
-            "stok": "50",
-            "foto": ""
-        },
-        {
-            "id": "7",
-            "id_supplier": "2",
-            "nama_produk": "Sayur Bayam",
-            "jenis_produk": "Sayuran",
-            "harga": "4000",
-            "stok": "40",
-            "foto": "bayam.jpg"
         }
     ]
 }
